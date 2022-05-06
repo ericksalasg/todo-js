@@ -9,6 +9,6 @@ todolist.todos.forEach( crearTodoHTML );
 
 /* const newTodo = new Todo('Aprender JS');
 todolist.nuevoTodo(newTodo);*/
-todolist.todos[0].imprimirClase(); 
+/* todolist.todos[0].imprimirClase();  */
 
 console.log("todos", todolist.todos);
